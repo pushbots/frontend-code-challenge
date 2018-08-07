@@ -2,8 +2,9 @@
 
 Using the following endpoint : https://testing.pushbots.com/api
 
-Build an application to authiticate and list apps with the following layout (make sure to make this layout fully responsive):
-![UI](https://imgur.com/a/N5DfHXh)
+Build an application to authiticate and list apps with the following layout (make sure to make this layout fully responsive)
+
+![UI](https://user-images.githubusercontent.com/13505298/43805654-e567b8b6-9aa0-11e8-8813-a261cc15f010.jpg)
 
 ## Requirements and Output
 

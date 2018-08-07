@@ -16,7 +16,6 @@ Build an application to authiticate and list apps with the following layout. (Us
 
 - User should be able to see all apps
 - User should paginate apps using our api endpoints
-- User should filter apps acording to application state (complated,active,in-setup)
 
 
 ## Conditions

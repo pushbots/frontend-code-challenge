@@ -2,7 +2,7 @@
 
 Using the following endpoint : https://testing.pushbots.com/api
 
-Build an application to authiticate and list apps with the following layout (make sure to make this layout fully responsive)
+Build an application to authiticate and list apps with the following layout. (Use material UI)
 
 ![UI](https://user-images.githubusercontent.com/13505298/43805654-e567b8b6-9aa0-11e8-8813-a261cc15f010.jpg)
 
@@ -118,7 +118,6 @@ Please note that our api is secured using jwt so you have to get a token for `/a
 - **Simple, clear, readable code** How well structured it is? Clear separation of concerns? Can anyone just look at it and get the idea to
 what is being done? Does it follow any standards?
 - **Correctness** Does the application do what it promises? Can we find bugs or trivial flaws?
-- **Memory efficiency** How will it behave in case of large datasets?
 - **Testing** How well tested your application is? Can you give some metrics?
 
 

@@ -8,7 +8,7 @@ Build an application to authiticate and list apps with the following layout. (Us
 
 ## Requirements and Output
 
-- User see a screen to enter his username and password then click login to be redirected to his dashboard page
+- User sees a screen to enter his username and password then clicks login to be redirected to his dashboard page.
 - Display all apps as responsive grid of cards as the image above
 - Display the total number active/completed/in-setup/all apps
 
@@ -25,7 +25,7 @@ Build an application to authiticate and list apps with the following layout. (Us
 - Implement [travis](https://travis-ci.org) or [scrutinizer-ci](https://scrutinizer-ci.com) or any other CI tool for the project, Add the build status badges to your project README file
 - Use [codeclimate](https://codeclimate.com) or any alternative to estimate the code quality and add it's badge to your project README file
 
-## Api endpoints:
+## API endpoints:
 Please note that our api is secured using jwt so you have to get a token for `/api/auth/login` then set `Authorization` with `bearer <-USERTOKEN->` for all api endpoints
 
 - `POST https://testing.pushbots.com/api/auth/login`

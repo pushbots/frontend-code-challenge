@@ -109,8 +109,7 @@ Please note that our api is secured using jwt so you have to get a token for `/a
     "inProgressApps": 5,
     "sharedApps": 0,
     "activeApps": 1
-}
- ```
+} ```
 
 ## What we are looking for
 

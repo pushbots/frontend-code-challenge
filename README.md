@@ -33,7 +33,7 @@ Please note that our api is secured using jwt so you have to get a token for `/a
     ```json
     {
     "email": "codechallenge@gmail.com",
-    "passwword":"secret"
+    "password":"secret"
     }
     ```
   - Response:
